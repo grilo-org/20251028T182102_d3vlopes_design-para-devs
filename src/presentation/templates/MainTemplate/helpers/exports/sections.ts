@@ -1,0 +1,9 @@
+export { AuthorSection } from '../../sections/Author';
+export { ChaptersSection } from '../../sections/Chapters';
+export { IntroSection } from '../../sections/Intro';
+export { PreviewSection } from '../../sections/Preview';
+export { CheckoutSection } from '../../sections/Checkout';
+export { ProjectSection } from '../../sections/Project';
+export { BonusSection } from '../../sections/Bonus';
+export { RememberCheckoutSection } from '../../sections/RememberCheckout';
+export { FaqSection } from '../../sections/Faq';

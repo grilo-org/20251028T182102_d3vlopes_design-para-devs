@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Avatar /> should match snapshot 1`] = `
+<div>
+  <div
+    class="relative bg-background-300 rounded-full w-[11.5625rem] h-[11.5625rem] lg:w-[23.875rem] lg:h-[23.875rem]"
+  >
+    <div
+      data-testid="mock-image"
+    />
+  </div>
+</div>
+`;

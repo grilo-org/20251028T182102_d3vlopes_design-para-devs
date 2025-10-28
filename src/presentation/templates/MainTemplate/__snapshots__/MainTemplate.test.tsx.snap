@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MainTemplate /> should match snapshot 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="mock-hero"
+    />
+    <div
+      class="flex flex-col gap-20 mx-auto md:gap-[10.1875rem] max-w-[78.4287rem] px-4 xl:px-0"
+    >
+      <div
+        data-testid="mock-intro-section"
+      />
+      <div
+        data-testid="mock-chapters-section"
+      />
+    </div>
+    <div
+      class="w-full bg-background-400 my-20 md:mt-[13rem]"
+    >
+      <div
+        data-testid="mock-author-section"
+      />
+    </div>
+    <div
+      class="flex flex-col gap-20 mx-auto md:gap-[10.1875rem] max-w-[93.75rem] mb-20 md:mb-[13rem]"
+    >
+      <div
+        data-testid="mock-preview-section"
+      />
+    </div>
+    <div
+      class="flex flex-col gap-20 mx-auto md:gap-[10.1875rem] mb-20 md:mb-[10.1875rem] lg:px-[5rem] lg:max-w-[78.4287rem]"
+    >
+      <div
+        data-testid="mock-checkout-section"
+      />
+    </div>
+    <div
+      class="flex flex-col gap-20 mx-auto md:gap-[10.1875rem] max-w-[78.4287rem] px-4 xl:px-0"
+    >
+      <div
+        data-testid="mock-project-section"
+      />
+    </div>
+    <div
+      class="flex flex-col gap-20 mx-auto md:gap-[10.1875rem] max-w-[93.75rem] my-20 md:my-[10.1875rem]"
+    >
+      <div
+        data-testid="mock-bonus-section"
+      />
+    </div>
+    <div
+      class="flex flex-col gap-20 mx-auto md:gap-[10.1875rem] max-w-[78.4287rem] px-4 xl:px-0"
+    >
+      <div
+        data-testid="mock-remember-checkout-section"
+      />
+      <div
+        data-testid="mock-faq-section"
+      />
+    </div>
+    <div
+      data-testid="mock-footer"
+    />
+  </main>
+</div>
+`;

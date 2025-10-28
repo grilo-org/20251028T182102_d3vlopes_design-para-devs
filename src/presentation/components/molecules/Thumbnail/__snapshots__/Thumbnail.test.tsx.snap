@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Thumbnail /> should match snapshot 1`] = `
+<div>
+  <div
+    class="relative flex justify-center items-center h-[14.0625rem] md:h-[24.0413rem]"
+  >
+    <img
+      alt="Capa do eBook, escrito Design para Devs com um programador em frente ao computador"
+      class="rounded-[4px] w-full md:h-[24.0413rem]"
+      data-nimg="fill"
+      decoding="async"
+      loading="lazy"
+      sizes="100vw"
+      src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=3840&q=75"
+      srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FI7TeV9zVSBiR8bkitszw&w=3840&q=75 3840w"
+      style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+    />
+    <div
+      class="absolute inset-0 bg-black opacity-80 rounded-[4px]"
+    />
+    <button
+      class="absolute m-auto"
+      type="button"
+    >
+      <svg
+        aria-label="Ícone representando o inicio da reprodução"
+        class="w-12 h-12 md:h-[11.5875rem] md:w-[11.5875rem]"
+        fill="none"
+        viewBox="0 0 186 186"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <title>
+          Ícone representando o inicio da reprodução
+        </title>
+        <circle
+          cx="93.2699"
+          cy="92.7786"
+          r="89.6986"
+          stroke="#8133F1"
+          stroke-width="6"
+        />
+        <path
+          d="M59.3399 34.01L161.13 92.7786L59.3399 151.547L59.3399 34.01Z"
+          fill="#9654F4"
+        />
+      </svg>
+    </button>
+  </div>
+</div>
+`;

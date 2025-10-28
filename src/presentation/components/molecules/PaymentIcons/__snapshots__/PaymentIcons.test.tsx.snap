@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PaymentIcons /> should match snapshot 1`] = `
+<div>
+  <div
+    class="flex gap-6 max-w-max"
+  >
+    <div
+      class="flex items-center gap-2"
+    >
+      <div
+        class="relative w-[2.1875rem] h-[2.1875rem] md:w-[2.8125rem] md:h-[2.8125rem]"
+      >
+        <img
+          alt="Um quadrado representando um cartão de crédito"
+          data-nimg="fill"
+          decoding="async"
+          loading="lazy"
+          sizes="100vw"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FH9mGhU1JSCWlxS7gLttb&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          title="Cartão"
+        />
+      </div>
+      <span
+        class="font-body font-semibold text-sm inline-block text-transparent bg-clip-text bg-gradient-primary md:text-lg"
+      >
+        Cartão
+      </span>
+    </div>
+    <div
+      class="flex items-center gap-2"
+    >
+      <div
+        class="relative w-[2.1875rem] h-[2.1875rem] md:w-[2.8125rem] md:h-[2.8125rem]"
+      >
+        <img
+          alt="Um triângulo divido em três partes"
+          data-nimg="fill"
+          decoding="async"
+          loading="lazy"
+          sizes="100vw"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FFBLLY6c9QgZJWW2Hxl7I&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          title="Pix"
+        />
+      </div>
+      <span
+        class="font-body font-semibold text-sm inline-block text-transparent bg-clip-text bg-gradient-primary md:text-lg"
+      >
+        Pix
+      </span>
+    </div>
+    <div
+      class="flex items-center gap-2"
+    >
+      <div
+        class="relative w-[2.1875rem] h-[2.1875rem] md:w-[2.8125rem] md:h-[2.8125rem]"
+      >
+        <img
+          alt="Um quadrado com pequenos retângulos dentro"
+          data-nimg="fill"
+          decoding="async"
+          loading="lazy"
+          sizes="100vw"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F7Jp6jlWdTduM4SKXwrTL&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          title="Boleto"
+        />
+      </div>
+      <span
+        class="font-body font-semibold text-sm inline-block text-transparent bg-clip-text bg-gradient-primary md:text-lg"
+      >
+        Boleto
+      </span>
+    </div>
+  </div>
+</div>
+`;

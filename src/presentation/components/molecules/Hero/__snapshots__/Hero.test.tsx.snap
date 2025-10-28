@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Hero /> should match snapshot 1`] = `
+<div>
+  <div
+    class="relative w-full bg-hero-mobile bg-cover bg-center h-[74.0344rem] pt-[7.0625rem] md:h-[64rem] lg:bg-hero-desktop lg:h-[36.25rem] min-[1520px]:bg-[center_top_-10rem]"
+  >
+    <div
+      class="flex flex-col items-center px-4 w-full lg:hidden"
+    >
+      <div
+        data-testid="mock-heading"
+      />
+      <p
+        class="mt-4 font-body text-2xl text-center text-neutral-50 w-[21.4375rem] md:w-[38rem] lg:w-[34rem] lg:text-left xl:w-[46.9375rem]"
+      >
+        Aprenda a aplicar conceitos de design no desenvolvimento de software para criar aplicações que vão além de frameworks e libs, elevando a experiência dos usuários.
+      </p>
+      <div
+        class="flex flex-col items-center justify-center gap-8 mt-11 w-full lg:justify-start lg:mt-8 lg:flex-row xl:w-auto"
+      >
+        <a
+          class="w-full max-w-[21.4375rem] text-lg"
+          href="https://pay.hotmart.com/Y88426530P?checkoutMode=10&offDiscount=LANCAMENTO"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <button
+            class="font-heading inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-gradient-primary rounded-[8px] py-6 text-complementary-white font-bold tracking-wider w-full max-w-[21.4375rem] text-lg"
+          >
+            Comprar agora
+          </button>
+        </a>
+        <a
+          href="#preview"
+        >
+          <button
+            class="font-heading inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-transparent text-lg text-neutral-50 md:text-xxl"
+          >
+            Visualizar Preview
+          </button>
+        </a>
+      </div>
+      <div
+        class="relative z-10 w-[15.3125rem] h-[20.9375rem] mt-10 lg:top-[-80px] lg:left-[-5px] lg:w-[24.1663rem] lg:h-[35.2319rem] lg:mt-0 min-[1100px]:left-[25px] xl:top-[-95px] xl:left-0"
+      >
+        <div
+          data-testid="mock-image"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

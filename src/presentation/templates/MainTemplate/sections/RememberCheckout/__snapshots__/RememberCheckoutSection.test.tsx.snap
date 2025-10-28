@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RememberCheckoutSection /> should match snapshot 1`] = `
+<div>
+  <section
+    class="flex flex-col items-center justify-center"
+    id="remember-checkout"
+  >
+    <div
+      data-testid="mock-heading"
+    />
+    <div
+      class="flex flex-col items-center font-highlight font-bold my-8"
+    >
+      <span
+        class="text-lg leading-[1.3613rem] text-complementary-red"
+      >
+        De
+         
+        <strong
+          class="line-through font-bold"
+        >
+          R$ 
+          60,00
+        </strong>
+      </span>
+      <span
+        class="text-2xl leading-[1.8156rem] text-complementary-white"
+      >
+        Por apenas
+      </span>
+      <strong
+        class="text-[3rem] leading-[3.6306rem] text-complementary-green"
+      >
+        R$ 
+        9,90
+      </strong>
+    </div>
+    <a
+      href="https://pay.hotmart.com/Y88426530P?checkoutMode=10&offDiscount=LANCAMENTO"
+      rel="noreferrer"
+      target="_blank"
+    >
+      <button
+        class="font-heading inline-flex items-center justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-gradient-primary rounded-[8px] py-6 font-bold tracking-wider w-[21.4375rem] text-xxl lg:w-[28rem] lg:text-5xl xl:w-[36.8125rem]"
+      >
+        Garantir desconto
+      </button>
+    </a>
+    <div
+      class="flex flex-col gap-3 items-center mt-6"
+    >
+      <p
+        class="font-highlight font-bold text-neutral-100 mb-3 lg:text-lg"
+      >
+        Formas de pagamento
+      </p>
+      <div
+        data-testid="mock-payment-icons"
+      />
+    </div>
+  </section>
+</div>
+`;

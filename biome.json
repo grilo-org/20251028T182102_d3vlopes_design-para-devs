@@ -1,0 +1,40 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.5.3/schema.json",
+	"organizeImports": {
+		"enabled": true
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single"
+		}
+	},
+	"linter": {
+		"enabled": true,
+		"ignore": [
+			"./plop/**",
+			"./jest.config.mjs",
+			"./src/app/*.tsx",
+			"./src/presentation/components/**/*.stories.tsx",
+			"./src/api/generated/**"
+		],
+		"rules": {
+			"recommended": true,
+			"correctness": {
+				"noUnusedVariables": "warn"
+			},
+			"suspicious": {
+				"noConsoleLog": "warn"
+			},
+			"style": {
+				"useEnumInitializers": "off",
+				"noNonNullAssertion": "off"
+			},
+			"complexity": {
+				"noStaticOnlyClass": "off"
+			},
+			"security": {
+				"noDangerouslySetInnerHtml": "off"
+			}
+		}
+	}
+}

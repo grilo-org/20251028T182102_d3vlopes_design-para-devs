@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BonusCard /> should match snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col py-8 rounded-[4px] border border-solid border-background-200 bg-background-400 h-[42.25rem] md:py-14 md:h-[43.125rem]"
+  >
+    <header
+      class="flex flex-col items-center"
+    >
+      <img
+        alt="Ícone do Discord"
+        class="w-max-[11.4375rem] min-w-[5.9375rem] h-[5.9375rem] md:w-max-[17.6875rem] md:w-min-[9.0625rem] md:h-[9.0625rem]"
+        src="https://media.graphassets.com/bfjH5gwbSZ24nF8iEe21"
+      />
+      <h2
+        class="my-6 text-center font-highlight font-extrabold text-3xl text-complementary-white max-w-[14.0625rem] md:text-6xl md:max-w-[31.6875rem]"
+      >
+        Comunidade exclusiva
+      </h2>
+    </header>
+    <hr
+      class="border border-solid border-background-200"
+    />
+    <div
+      class="px-3 md:pl-6 md:pr-0"
+    >
+      <p
+        class="font-body text-base text-neutral-50 mt-8 mb-6 max-w-max md:max-w-[35.1875rem]"
+      >
+        Uma comunidade no Discord para conhecer outros devs, trocar conhecimentos e tirar dúvidas.
+      </p>
+      <h3
+        class="font-body text-base text-neutral-50 font-semibold mb-4 md:text-lg"
+      >
+        Nesta comunidade, você pode
+        :
+      </h3>
+      <div
+        class="flex items-center gap-2"
+      >
+        <img
+          alt="Ícone de positivo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <span
+          class="font-body text-base leading-[1.3619rem] font-bold text-neutral-50 max-w-[12.4375rem] md:max-w-max"
+        >
+          Fazer networking
+        </span>
+      </div>
+      <div
+        class="flex items-center gap-2"
+      >
+        <img
+          alt="Ícone de positivo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <span
+          class="font-body text-base leading-[1.3619rem] font-bold text-neutral-50 max-w-[12.4375rem] md:max-w-max"
+        >
+          Divulgar seus projetos
+        </span>
+      </div>
+      <div
+        class="flex items-center gap-2"
+      >
+        <img
+          alt="Ícone de positivo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <span
+          class="font-body text-base leading-[1.3619rem] font-bold text-neutral-50 max-w-[12.4375rem] md:max-w-max"
+        >
+          Obter análise do seu código por mim
+        </span>
+      </div>
+      <div
+        class="flex items-center gap-2"
+      >
+        <img
+          alt="Ícone de positivo"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=48&q=75 1x, /_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Fd65K9uHRScCtAVILVcY8&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+        <span
+          class="font-body text-base leading-[1.3619rem] font-bold text-neutral-50 max-w-[12.4375rem] md:max-w-max"
+        >
+          Tirar dúvidas
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
